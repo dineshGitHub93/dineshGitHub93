@@ -16,11 +16,11 @@
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)
 
-- **Languages:** Java | SQL
-- **Frameworks:** Selenium | RestAssured | TestNG | JUnit
+- **Languages:** Java | SQL | Javascripts (Basics ) | Python (Basics)
+- **Frameworks:** Selenium | RestAssured | TestNG | JUnit | Cucumber BDD
 - **CI/CD:** Jenkins | GitHub Actions
 - **Reporting:** Extent Reports | Customized HTML Rports
-- **Other:** Postman | Docker | Git | Maven
+- **Other:** Postman | Docker | Git & Git-Hub | Maven
 
 ---
 
@@ -42,6 +42,6 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: dineshspachaiyappan93@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/dinesh-pachaiyappan-9206401ab)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dinesh-pachaiyappan-9206401ab/)
 
 ---
