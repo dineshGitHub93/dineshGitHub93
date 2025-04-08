@@ -26,10 +26,10 @@
 
 ## 💼 Projects
 
-### 🔹 [E2E Selenium Framework](https://github.com/yourusername/selenium-framework)
+### 🔹 [E2E Selenium Framework](https://github.com/dineshGitHub93/SeleniumPOM.git)
 > Java + TestNG + Maven + Page Object Model
 
-### 🔹 [API Automation with RestAssured](https://github.com/yourusername/restassured-api-testing)
+### 🔹 [API Automation with RestAssured](https://github.com/dineshGitHub93/RestAPIAutomationFramework.git)
 > REST API automation using RestAssured + TestNG + JSON Schema Validation
 ---
 
