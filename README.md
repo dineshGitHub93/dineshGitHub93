@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Dinesh – Automation Tester
 
-<!--
-**dineshGitHub93/dineshGitHub93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Passionate about building scalable and maintainable test automation frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Skills & Tools
+
+- **Languages:** Java | SQL
+- **Frameworks:** Selenium | RestAssured | TestNG | JUnit
+- **CI/CD:** Jenkins | GitHub Actions
+- **Reporting:** Extent Reports | Customized HTML Rports
+- **Other:** Postman | Docker | Git | Maven
+
+---
+
+## 💼 Projects
+
+### 🔹 [E2E Selenium Framework](https://github.com/yourusername/selenium-framework)
+> Java + TestNG + Maven + Page Object Model
+
+### 🔹 [API Automation with RestAssured](https://github.com/yourusername/restassured-api-testing)
+> REST API automation using RestAssured + TestNG + JSON Schema Validation
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: dineshspachaiyappan93@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/dinesh-pachaiyappan-9206401ab)
+
+---
